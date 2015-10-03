@@ -2,4 +2,4 @@
  
 Es serie de libros cuenta la historia de un hacker de los que hay pocos.
 
-**Calixto LoSa**
+**Calixto LoSa**, git lover
